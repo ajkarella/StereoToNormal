@@ -3,7 +3,7 @@ StereoToNomal is a short program written in python that can convert stereo image
 
 ## How to use StereoToNormal
 StereoToNormal can be ran through the command line like any other python program. In order to run it you would type the following command
-```python StereoToNormal.py right_image_location left_image_location```
+```python StereoToNorm.py right_image_location left_image_location```
 
 Some optional parameters are able to be used as well. 
 | Parameter | Description |
