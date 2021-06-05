@@ -9,6 +9,7 @@ Some optional parameters are able to be used as well.
 | Parameter | Description |
 | ----------- | ----------- |
 | -g off | disables the gaussian blur.       |
+|  |  |
 | -b [int]   | changes the block sizr in block matching algorithm        |
 
 ## Possible modifications
